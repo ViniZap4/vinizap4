@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vinizap4@gmail.com
 ---
 
-An interesting fact: The first computer virus was created in 1986.
+An interesting fact: The first computer virus was created in 1971.
 
 
 
