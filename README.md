@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   - [Dog-Adventure Project](https://github.com/ViniZap4/Vortex-Notation) with Vortex team;
   - A personal project, I'm doing in my free time - [Dev Nook](https://github.com/ViniZap4/dev-nook)
 - 🌱 I’m currently learning:
-  - **[Reactjs](https://reactjs.org/)** with **[TypeScript](https://www.typescriptlang.org/docs/)**, and **[React-native](https://reactnative.dev/)** with **[Expo](https://expo.dev/), learning new thing.**;
+  - **[Reactjs](https://reactjs.org/)** with **[TypeScript](https://www.typescriptlang.org/docs/)**, and **[React-native](https://reactnative.dev/)** with **[Expo](https://expo.dev/), learning new thing**;
   - In my free time I'm seeing somethings about **[Threejs](https://threejs.org/)**;
   - **[Unity 3D](https://unity.com/)**: I'm improving my knowledge;
 - 📫 How to reach me: vinizap4@gmail.com
