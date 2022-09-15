@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ViniZap4/vinizap4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<!--
-|-----------------------------------\\\\-----------------------------------|---------------\\\\--------------| 
-|-|-|
-| Hey there, welcome to my profile! 👋<br> <ui><br><li markdown="1"> 🔭 I’m currently working </li></ui><br> |<kbd><img style="width:200px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif" /></kbd>|
--->
+
+<div align="center">
+ <h1> Hi there 👋 , Welcome to my profile! </h1>
+</div>
+
+<div align="center">
+  <span> “Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.” <span>
+  <br><sup>(Eagleson’s Law)</sup> 
+</div>
+<br>
+<br>
+    
+<a href="https://vinizap.vercel.app" title="see my personal site" target="_black"> 
+  <img
+    alt="vinizap gif"
+    align="right"
+     style="
+      width:405px;
+    "
+    src="https://github.com/ViniZap4/vinizap4/blob/main/assets/gifs/vinizap.gif?raw=true" 
+  />
+</a>
+
+ **Somethings about me:**
+
+- See what I’m currently working: 
+  - [Dog-Adventure Project](https://github.com/ViniZap4/Vortex-Notation) with Vortex team;
+  - A personal project, I'm doing in my free time - [Dev Nook](https://github.com/ViniZap4/dev-nook)
+- 🌱 I’m currently learning:
+  - **[Reactjs](https://reactjs.org/)** with **[TypeScript](https://www.typescriptlang.org/docs/)**, and **[React-native](https://reactnative.dev/)** with **[Expo](https://expo.dev/), learning new thing.**;
+  - In my free time I'm see somethings about **[Threejs](https://threejs.org/)**;
+  - **[Unity 3D](https://unity.com/)**: I'm improving my knowledge;
+- 📫 How to reach me: vinizap4@gmail.com
+- ⚡ Fun fact: The first computer virus was created in 1986.
+
+
+
+
