@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
+<!--
+|-----------------------------------\\\\-----------------------------------|---------------\\\\--------------| 
+|-|-|
+| Hey there, welcome to my profile! 👋<br> <ui><br><li markdown="1"> 🔭 I’m currently working </li></ui><br> |<kbd><img style="width:200px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif" /></kbd>|
 -->
