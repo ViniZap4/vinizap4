@@ -31,7 +31,7 @@
   - **[Unity 3D](https://unity.com/)**: I'm improving my knowledge;
 - 📫 How to reach me: vinizap4@gmail.com
 
-# Metrics
+<br>
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=vinizap4&column=2&rank=-C,-B,-?&theme=dracula&margin-w=9&margin-h=9" alt="my trophy" />
 
