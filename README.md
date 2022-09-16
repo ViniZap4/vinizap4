@@ -33,9 +33,6 @@
 
 # Metrics
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=vinizap4&column=2&rank=-C,-B,-?&theme=dracula&margin-w=9&margin-h=9" alt="my trophy" />
 
 ![Metrics](https://metrics.lecoq.io/vinizap4?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=GLSL%2C%20ruby&languages.limit=9&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America&config.twemoji=true&config.octicon=true)
