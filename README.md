@@ -33,13 +33,12 @@
 
  <img 
    align="right" 
-   src="https://github-profile-trophy.vercel.app/?username=vinizap4&rank=-C,-B,-?&theme=dracula&margin-w=9&margin-h=9" 
+   src="https://github-profile-trophy.vercel.app/?username=vinizap4&column=1&rank=-C,-B,-?&theme=dracula&margin-w=9&margin-h=9" 
    alt="my trophy" 
+   style="width:90px"
  />
-
-
-
-
+ 
+ ![Most lanuage used](https://github-readme-stats.vercel.app/api/top-langs?username=vinizap4&langs_count=9&hide=GLSL&layout=compact&count_private=true&show_icons=true&&theme=highcontrast&title_color=58a6ff&bg_color=0d1117)
 
 <!--
 
