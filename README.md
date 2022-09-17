@@ -40,6 +40,12 @@
  
  ![Most lanuage used](https://github-readme-stats.vercel.app/api/top-langs?username=vinizap4&langs_count=9&hide=GLSL&layout=compact&count_private=true&show_icons=true&&theme=highcontrast&title_color=58a6ff&bg_color=0d1117)
 
+<img
+ align="center" 
+ src="https://metrics.lecoq.io/vinizap4?template=classic&repositories.batch=5&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo"
+ alt="Isometric Commit"
+/>
+ 
 <!--
 
 ---
