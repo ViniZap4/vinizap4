@@ -1,5 +1,5 @@
 <div align="center">
- <h1> Hi there 👋 , Welcome to my profile! </h1>
+ <h1> Hi there 👋, Welcome to my profile! </h1>
 </div>
 
 <div align="center">
@@ -18,16 +18,8 @@
   />
 </a>
 
- **Somethings about me:**
-
-- ⚡ See what I’m currently working: 
-  - [Dog-Adventure Project](https://github.com/ViniZap4/Vortex-Notation) with Vortex team;
-  - A personal project, I'm doing in my free time - [Dev Nook](https://github.com/ViniZap4/dev-nook)
-- 🌱 I’m currently learning:
-  - **[Reactjs](https://reactjs.org/)** with **[TypeScript](https://www.typescriptlang.org/docs/)**, and **[React-native](https://reactnative.dev/)** with **[Expo](https://expo.dev/), learning new thing**;
-  - In my free time I'm seeing somethings about **[Threejs](https://threejs.org/)**;
-  - **[Unity 3D](https://unity.com/)**: I'm improving my knowledge;
-- 📫 How to reach me: vinizap4@gmail.com
+Hi!, My name is **Vinicius** and I'm **20 years** old and I'm in the last year of my bachelor's in **computer science** I have been focusing my study on **front-end** and **game development**, in the moment **I have done 4 games**, and **I currently working on my 5º game**, it is Indie game about a warrior dog on the forest with dangerous monsters, see more in -> [Dog-Adventure-project](https://github.com/ViniZap4/Vortex-Notation).
+You can also see my main projects on my personal site -> [ViniZap](https://vinizap.vercel.app/)
 
 <br>
 
@@ -53,6 +45,15 @@
 ---
 **An interesting fact**: The first computer virus was created in 1971.
 
+
+- ⚡ See what I’m currently working: 
+  - [Dog-Adventure Project](https://github.com/ViniZap4/Vortex-Notation) with Vortex team;
+  - A personal project, I'm doing in my free time - [Dev Nook](https://github.com/ViniZap4/dev-nook)
+- 🌱 I’m currently learning:
+  - **[Reactjs](https://reactjs.org/)** with **[TypeScript](https://www.typescriptlang.org/docs/)**, and **[React-native](https://reactnative.dev/)** with **[Expo](https://expo.dev/), learning new thing**;
+  - In my free time I'm seeing somethings about **[Threejs](https://threejs.org/)**;
+  - **[Unity 3D](https://unity.com/)**: I'm improving my knowledge;
+- 📫 How to reach me: vinizap4@gmail.com
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vinizap4&theme=react-dark)
 
