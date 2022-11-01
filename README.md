@@ -19,13 +19,14 @@
 </a>
 
 Hi!, My name is **Vinicius** and I'm **20 years** old and I'm in the last year of my bachelor's in **computer science** I have been focusing my study on **front-end** and **game development**, in the moment **I have done 4 games**, and **I currently working on my 5º game**, it is Indie game about a warrior dog on the forest with dangerous monsters, see more in -> [Dog-Adventure-project](https://github.com/ViniZap4/Vortex-Notation).
+
 You can also see my main projects on my personal site -> [ViniZap](https://vinizap.vercel.app/)
 
 <br>
 
  <img 
    align="right" 
-   src="https://github-profile-trophy.vercel.app/?username=vinizap4&column=1&rank=-C,-B,-?&theme=dracula&margin-w=9&margin-h=9" 
+   src="https://github-profile-trophy.vercel.app/?username=vinizap4&column=3&rank=-C,-B,-?&theme=dracula&margin-w=9&margin-h=9" 
    alt="my trophy" 
    style="width:90px"
  />
