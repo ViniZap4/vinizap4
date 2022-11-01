@@ -25,7 +25,7 @@ You can also see my main projects on my personal site -> [ViniZap](https://viniz
 <br>
 
  <img 
-   src="https://github-profile-trophy.vercel.app/?username=vinizap4&column=4&rank=-C,-B,-?&theme=dracula&margin-w=9&margin-h=9" 
+   src="https://github-profile-trophy.vercel.app/?username=vinizap4&column=3&rank=-C,-B,-?&theme=dracula&margin-w=9&margin-h=9" 
    alt="my trophy" 
  />
  
