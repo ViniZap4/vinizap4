@@ -28,7 +28,6 @@ You can also see my main projects on my personal site -> [ViniZap](https://viniz
    align="right" 
    src="https://github-profile-trophy.vercel.app/?username=vinizap4&column=3&rank=-C,-B,-?&theme=dracula&margin-w=9&margin-h=9" 
    alt="my trophy" 
-   style="width:200px"
  />
  
 [![Most lanuage used](https://github-readme-stats.vercel.app/api/top-langs?username=vinizap4&langs_count=9&hide=GLSL&layout=compact&count_private=true&show_icons=true&theme=highcontrast&title_color=58a6ff&bg_color=0d1117&border_color=0d1117)](https://github-readme-stats.vercel.app/api/top-langs?username=vinizap4&langs_count=9&hide=GLSL&layout=compact&count_private=true&show_icons=true&theme=highcontrast&title_color=58a6ff&bg_color=0d1117&border_color=0d1117)
