@@ -18,7 +18,7 @@
   />
 </a>
 
-Hi!, My name is **Vinicius** and I'm **21 years old** and I'm in the last year of my bachelor's in **computer science** I have been focusing my study on **front-end** and **game development**, in the moment I'm styding and improving my knowledge fullstack development with nodejs, reactjs and react native and for game development Unity 3d, Godot and Unreal Engine.
+Hi!, My name is **Vinicius** and I'm **21 years old** and I'm in the last year of my bachelor's in **computer science** I have been focusing my study on **front-end** and **game development**, in the moment I'm styding and improving my knowledge about fullstack development with nodejs, reactjs and react native and for game development Unity 3d, Godot and Unreal Engine.
 
 What I current working: 
  - [Dog-Adventure-project](https://github.com/ViniZap4/Vortex-Notation).
