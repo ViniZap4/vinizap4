@@ -18,10 +18,11 @@
   />
 </a>
 
-Hi!, My name is **Vinicius** and I'm **21 years old** and I'm in the last year of my bachelor's in **computer science** I have been focusing my study on **front-end** and **game development**, in the moment I'm styding and improving my knowledge about fullstack development with nodejs, reactjs and react native and for game development Unity 3d, Godot and Unreal Engine.
+Hi!, My name is **Vinicius** and I'm **21 years old** and I'm a **computer scientist** and I have been focusing my study and projects on **front-end** and **game development**, in the moment I'm styding and improving my knowledge about fullstack development with nodejs, reactjs and react native and for game development Unity 3d, Godot and Unreal Engine.
 
-What I current working: 
- - [Dog-Adventure-project](https://github.com/ViniZap4/Vortex-Notation).
+What I current working:
+ - [Dev Nook](https://github.com/ViniZap4/dev-nook).   
+ - [Dog Adventure project](https://github.com/ViniZap4/Vortex-Notation).
 
 You can also see my main projects on my personal site -> [ViniZap](https://vinizap.vercel.app/)
 
