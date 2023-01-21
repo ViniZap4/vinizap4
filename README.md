@@ -19,13 +19,25 @@
 </a>
 
 Hi!, My name is **Vinicius** and I'm **21 years old** and I'm a **computer scientist** and I have been focusing my study and projects on **front-end** and **game development**, in the moment I'm styding and improving my knowledge about fullstack development with nodejs, reactjs and react native and for game development Unity 3d, Godot and Unreal Engine.
-
-What I current working:
- - [Dev Nook](https://github.com/ViniZap4/dev-nook).   
- - [Dog Adventure project](https://github.com/ViniZap4/Vortex-Notation).
-
 You can also see my main projects on my personal site -> [ViniZap](https://vinizap.vercel.app/)
 
+### What I current working:
+ - [Dev Nook](#dev-nook).   
+ - [Dog Adventure project](#dog-adventure).
+
+---
+# Dev-nook
+ A Platform for developers with shortcuts, analytics and apps.
+ - [Repository](https://github.com/ViniZap4/dev-nook).   
+
+# Dog-adventure
+ This Project is paused.  
+ An indie 3D game with unity3D, will be able to play on desktops with linux, mac and windows, and will be compatible with joysticks.
+ - [page on itch.io](https://vinizap.itch.io/dog-adventure)
+ - [Youtube Chanel](https://www.youtube.com/channel/UCvZFSOUdqKeCVwZQ7Bp34Xw)
+ - [Repository](https://github.com/ViniZap4/dog-adventure).
+
+---
 <br>
 
   <a href="https://github-profile-trophy.vercel.app/?username=vinizap4&column=3&rank=-C,-B,-?&theme=dracula&margin-w=9&margin-h=9">
