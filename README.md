@@ -34,7 +34,7 @@ Dev Nook will be A Platform for developers with shortcuts, analytics, and apps.
  This Project is paused.  
 An indie 3D game with Unity3D will be able to play on desktops with Linux, mac, and Windows, and will be compatible with joysticks.
  - [Page on itch.io with Devlogs](https://vinizap.itch.io/dog-adventure)
- - [Youtube Chanel](https://www.youtube.com/channel/UCvZFSOUdqKeCVwZQ7Bp34Xw)
+ - [Youtube Channel](https://www.youtube.com/channel/UCvZFSOUdqKeCVwZQ7Bp34Xw)
  - [Repository](https://github.com/ViniZap4/dog-adventure).
 
 ---
