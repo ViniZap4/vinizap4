@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a passionate developer who loves creating immersive experiences through code. Whether I'm building dynamic web applications or diving into game development with Unity 3D, Godot, or Unreal Engine, I thrive on transforming innovative ideas into reality.
+I’m a passionate developer who truly loves what I do. I’m always pushing myself to improve and learn, constantly exploring new horizons and challenging myself to build innovative solutions. Whether I’m crafting immersive digital experiences or experimenting with emerging ideas, I thrive on transforming creative visions into reality and growing with every project.
 
 ---
 
